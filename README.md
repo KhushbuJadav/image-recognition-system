@@ -1,1 +1,1 @@
-# image-recognition-system
+A Python-based Image Recognition System that uses deep learning to classify images. The application allows users to upload an image and receive predicted labels using a pre-trained CNN model. Built with Flask for the web interface and TensorFlow/Keras for image processing.
